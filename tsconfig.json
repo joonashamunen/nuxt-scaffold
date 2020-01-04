@@ -1,5 +1,5 @@
 {
-  "files": ["typings/shims-vue.d.ts"],
+  "files": ["types/shims-vue.d.ts"],
   "compilerOptions": {
     "target": "es2018",
     "module": "esnext",
